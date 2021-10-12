@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name" translatable="false">Copy Data</string>
+
+    <string name="action_cancel">Cancel</string>
+    <string name="str_another_panda">Finding Another Device Around You</string>
+    <string name="str_scan_qr">Scan this QR Code from Receiver\'s End.</string>
+    <string name="str_send_files">Send Multiple Songs,\nPlaylists, Albums, Artists, Genres \nand Folders.</string>
+    <string name="str_select_send_Receive">Select Send / Receive</string>
+    <string name="str_pressed_send">If pressed Send : Auto generates QR Code.</string>
+    <string name="str_pressed_receive">If Pressed Receive :</string>
+    <string name="note1">Note: After Scanning the QR code, accept permission from notification, press Yes and keep wifi; keep this step only once.</string>
+    <string name="str_pressed_receive_step1">B) Auto Search and Select the Device. </string>
+    <string name="str_pressed_receive_step2">C) Scan the QR Code of Sender\'s Device. </string>
+    <string name="str_pressed_receive_step4">A) Disconnect with existing wifi network if you are connected only. </string>
+    <string name="str_pressed_receive_step3">Visit Other Tabs to Select &amp; Send Files</string>
+    <string name="txt_receive">Receive</string>
+    <string name="txt_send">Send</string>
+    <string name="str_disconnect">Disconnect</string>
+    <string name="str_warning">Warning</string>
+    <string name="str_wifi_assistance">Wi-Fi Assistant</string>
+    <string name="str_go_to_turn_off">Go to Turn off</string>
+    <string name="str_redmi_xiomi_users">RedMi/XioMi users,\n</string>
+    <string name="str_turn_off_assistant">Please turn OFF Wi-Fi assistant at Settings->Wi-Fi->Advanced Settings.\n\n</string>
+    <string name="str_connection_failure">If Wi-Fi assistant is ON, it may cause connection failure!!!</string>
+    <string name="str_yes">YES</string>
+    <string name="str_not_yet">Not Yet</string>
+    <string name="str_turn_off_hotspot">Turn off hotspot</string>
+    <string name="str_note">Note:</string>
+    <string name="str_disconnection_message">Software caused connection abort</string>
+    <string name="str_file_transfering">File transferring …</string>
+    <string name="str_require_permission">Required Permission</string>
+    <string name="str_enable_write">Please enable the write permission in order to connect to device</string>
+    <string name="str_turn_off_wifi">Turn off hotspot to send and click on send button again…</string>
+    <string name="str_connect_device">Connect to another device</string>
+    <string name="title_location_services">Location Services</string>
+    <string name="message_location_services">Location services must be enabled in order to discover devices.</string>
+    <string name="action_enable">Enable</string>
+    <string name="txt_generating">Generating QR Code</string>
+    <string name="txt_connecting">Connecting</string>
+    <string name="str_turn_off_wifi_assistant">Did you Turn Off Wif-Fi assistant</string>
+    <string name="str_device_disconnected">Device Disconnected</string>
+
+    <string name="pass_code_hint">Enter passcode here,</string>
+
+    <!-- Design related strings define here -->
+    <string name="intro_first_text">Multiple Share Choice</string>
+    <string name="intro_first_2_text" translatable="false">Share unlimited number of files ,with the ability to download complete structured format.</string>
+    <string name="intro_second_text">Super Fast - High Speed</string>
+    <string name="intro_second_2_text">Full-featured and great file transfer Tool for power users.</string>
+    <string name="intro_third_text">Easy to use and share</string>
+    <string name="intro_third_2_text">Makes sharing files between devices quicker and easier.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="vw_confirm">Done</string>
+    <string name="vw_no_video_play_app">No App exists for playing video!</string>
+    <string name="vw_record_audio">Record Audio</string>
+    <string name="vw_rationale_storage">Need Reading Storage Permission for Picking Files</string>
+    <string name="vw_up_to_max">Already up to max</string>
+    <string name="vw_no_photo_app">No photo App in this phone!</string>
+    <string name="vw_no_audio_play_app">No App exists for playing audio!</string>
+    <string name="vw_no_video_app">No video App in this phone!</string>
+    <string name="vw_no_audio_app">No audio App in this phone!</string>
+    <string name="vw_all">All</string>
+
+    <!-- OneSignal Credential -->
+    <string name="onesignal_app_id">6d27f147-b8e1-4cea-8e9a-0a2015a11662</string>
+
+    <!-- Google Ads -->
+    <string name="app_id">ca-app-pub-1599168469857155~8771099169</string>
+    <string name="admob_open_id">ca-app-pub-1599168469857155/5761792445</string>
+    <string name="banner_ad">ca-app-pub-1599168469857155/6144935829</string>
+</resources>

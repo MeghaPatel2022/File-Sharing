@@ -1,0 +1,3 @@
+rootProject.name='File-Sharing'
+
+include ':app'

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#399DF5</color>
+    <color name="purple_500">#399DF5</color>
+    <color name="purple_700">#338CDC</color>
+    <color name="teal_200">#2C62DE</color>
+    <color name="teal_700">#2C62DE</color>
+
+    <color name="colorPrimary">#399DF5</color>
+    <color name="colorPrimaryDark">#2C62DE</color>
+    <color name="colorAccent">#399DF5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray_3">#999ba1</color>
+    <color name="gray">#707177</color>
+
+    <color name="blue">#2C62DE</color>
+    <color name="string_color">#292C33</color>
+    <color name="red">#FA5959</color>
+
+    <color name="background_color">#F7F8FA</color>
+    <color name="directory">#CE000000</color>
+
+    <color name="vw_BgToolBar">#373B3E</color>
+    <color name="vw_BgRv">#191919</color>
+    <color name="vw_BgItem">#353535</color>
+    <color name="vw_ShadowItem">#94333232</color>
+    <color name="vw_BgRvFileDivider">#EEEEEE</color>
+    <color name="teal_a100">#A7FFEB</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+</resources>
